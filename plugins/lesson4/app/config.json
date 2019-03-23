@@ -1,0 +1,10 @@
+{
+    "PluginManager":{
+        "favorites": [
+            "PluginA"
+            ],
+        "quiet": [
+            "PluginB"
+            ]
+    }
+}
